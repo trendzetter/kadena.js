@@ -228,7 +228,7 @@ Specific information on _Properties_ can be found in [The Pact Property Checking
 
 ### bless
 
-```bash
+```pact
 (bless HASH)
 ```
 
